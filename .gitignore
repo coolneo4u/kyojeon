@@ -19,3 +19,9 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+#### added by NEO
+node_modules
+npm-packages-offline-cache
+!/public/javascripts/bundle.js
+/public/*.hot-update.*
