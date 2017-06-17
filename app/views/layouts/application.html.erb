@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>KyojeonWebapp</title>
+    <%= csrf_meta_tags %>
+    
+    <style>
+      html {
+        background: #222222;
+        height: 100%;
+      }
+      body {
+        background: #222222;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+      #app {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+      }
+      #loading-wrapper {
+          flex: 1;
+          color: #fefefe;
+          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+          display: flex;
+          align-content: center;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          /*width: 100vw;
+          height: 100vh;*/
+      }
+      .header_loading {
+          display: flex;
+          align-items: center;
+      }
+      .title_loading {
+          font-size: 3em;
+          margin-bottom: 10px;
+          padding-left: 20px;
+      }
+      .loading_loading {
+          margin-top: 30px;
+          font-size: 1.5em;
+          animation: loading 1s infinite;
+      }
+      @keyframes loading {
+        0%   {opacity: 0.3}
+        25%  {opacity: 1}
+        50%  {opacity: 1}
+        75%  {opacity: 1}
+        100% {opacity: 0.3} 
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app">
+      <div id='loading-wrapper'>
+        <div class="header_loading">
+          <!-- <img class='badge_loading' src='/A9_logo.png' alt="A9_logo" height="70" width="70" /> -->
+          <div class='title_loading'>Kyojeon App</div>  
+        </div>
+        <div class='loading_loading'>Loading...</div>
+      </div>
+    </div>
+    <%= javascript_include_tag 'bundle'%>
+  </body>
+</html>

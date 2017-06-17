@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  favorite: 1
+  book: MyString
+  chapter: 1
+  section: 1
+  verse: 1
+  s_id: MyString
+  language: MyString
+  image: MyString
+  sectionstring: MyString
+  title: MyString
+  title2: MyString
+  text: MyText
+
+two:
+  favorite: 1
+  book: MyString
+  chapter: 1
+  section: 1
+  verse: 1
+  s_id: MyString
+  language: MyString
+  image: MyString
+  sectionstring: MyString
+  title: MyString
+  title2: MyString
+  text: MyText

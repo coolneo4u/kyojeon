@@ -1,0 +1,331 @@
+$blueColor: #337ab7;
+$info-color: #33b5e5;
+$info-color-dark: #0099CC;
+$lightgreyColor: #ddd;
+$whiteColor: #f9f9f9;
+
+span.pilot
+	padding: 3px;
+	font-size: 1.2em;
+	font-family: "Lucida Console", Monaco, monospace;
+	height: auto;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-top: auto;
+
+html
+	background: #222222;
+	height: 100%;
+body
+	background: #222222;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+#app
+	// height: 100%;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+textarea
+	resize: vertical;
+.footer
+	z-index: 200;
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #222222;
+	color: #a9a9a9;
+	flex: 0 0 auto;
+	display: flex;
+	justify-content: space-between;
+	min-height: 40px;
+	.logo
+		margin-right: 40px;
+		height: 40px;
+		width: auto;
+	
+.header
+	margin-top: 30px
+	margin-bottom: 10px
+	padding-left: 40px
+	display: flex;
+
+div.crop
+	width: 70px;
+	height: 70px;
+	overflow: hidden;
+	border-radius: 35px;
+	//box-shadow: 0 0 2px 3px rgba(255, 255, 255, 0.5);
+	box-shadow: 0 0 2px 3px #666;
+	right: 65px;
+	position: absolute;
+img.badge
+	display: flex !important;
+	background-color: #222;
+	width: 84px;
+	height: auto;
+	margin-left: -7px;
+	margin-top: -9px;
+
+.logo
+	display: flex;
+h1.logo
+	padding-left: 12px;
+	margin-top: 15px;
+hr.style1
+	border-top: 0px solid #8c8b8b
+	margin-top: 10px
+	margin-bottom: 0px
+.bodyText
+	font-size: 1.2em;
+	padding-top: 20px;
+	padding-bottom: 20px;
+.paragraph
+	margin-bottom: 10px;
+.bodyContainer
+	flex: 1 0 auto;
+	box-shadow: inset 0px 15px 15px -10px rgba(0, 0, 0, 0.63);
+	background-color: #fefefe;
+	&.dark
+		padding: 2em
+		padding-top: 50px;
+		background-color: #f9f9f9;
+		//box-shadow: inset 0px 15px 15px -10px rgba(0, 0, 0, 0.63);
+		&.explorer
+			//padding-left: 100px;
+			min-height: calc(100vh + 130px);
+			flex: 1;
+button.resourceButton, a.resourceButton
+	margin-top: 20px;
+	margin-bottom: 40px;
+
+.spacer
+	height: 20px
+
+.appContent
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+.contentHeader
+	z-index: 300
+	position: relative
+	background-color: #222222
+	color: #e9e9e9
+.nav.nav-pills
+	padding-left: 55px
+	li
+		a
+			color: #f2f2f2
+		a:hover, a:focus
+			background-color: #666
+		&.login
+			position: absolute;
+			right: 70px;
+			font-size: 1.4em;
+			margin-top: 6px;
+			&.hidden
+				display: none;
+.nav-wrapper
+	height: 60px;
+.navContainer
+	background-color: #222222
+	z-index: 300
+	width: 100%
+	padding-left: 0px
+	padding-right: 0px
+	//box-shadow: 0px 15px 15px -10px rgba(0, 0, 0, 0.63);
+.navbar-fixed
+	position: fixed
+	top: 0
+	padding-top: 10px;
+	box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.63);
+h3.title
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+//////////copied to signupas.sass
+
+// td.title
+// 	text-align: right;
+// 	padding: 10px 25px 30px 0px
+// 	line-height: 1.2
+// 	width: 40%
+// 	font-size: 1.2em;
+// 	&.auto
+// 		padding-bottom: 10px
+// 	&.radio_title
+// 		padding-bottom: 35px
+// td.td-content
+// 	font-size: 1.2em
+// 	font-weight: bold
+// 	&.form
+// 		width: 100%
+// 		padding-top: 0px
+// 		padding-bottom: 0px
+// 	&.select
+// 		width: 100%
+// 		padding-top: 20px
+// 		padding-bottom: 20px
+// 	textarea
+// 		min-height: 75px;
+// .full-width
+// 	width: 100%;
+
+//////////////
+
+.info-container
+	background-color: white;
+	border-radius: 4px 4px 0 0;
+	border: 1px;
+	border-style: solid;
+	border-color: #ddd;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+	max-width: 1000px;
+	//animation
+	//visibility: visible;
+	opacity: 1;
+	max-height: 100%;
+	//position: relative;
+	transition: max-height 0.5s, opacity 0.5s linear;
+	&.hideWithAnimation
+		//animation
+		//visibility: hidden;
+		opacity: 0;
+		max-height: 0;
+		//position: fixed;
+		transition: max-height 0.5s, opacity 0.5s linear;
+.width1000
+	max-width: 1000px;
+	padding: 2em
+
+.help-block
+	font-weight: normal;
+	font-size: 12px;
+
+.Select--multi .Select-value
+	// background-color: #ebf5ff;
+	// background-color: rgba(0, 126, 255, 0.08);
+	// border-radius: 2px;
+	// border: 1px solid #c2e0ff;
+	// border: 1px solid rgba(0, 126, 255, 0.24);
+	// color: #007eff;
+	// display: inline-block;
+	// font-size: 0.9em;
+	// line-height: 1.4;
+	// margin-left: 5px;
+	// margin-top: 5px;
+	margin-bottom: 5px;
+	// vertical-align: top;
+.title.auto
+	color: #aaa;
+.Select-placeholder
+	//font-weight: normal;
+	font-size: 15px;
+.green
+	color: #3c763d;
+	margin-bottom: -5px;
+.parallax
+	min-height: 600px;
+	width: 100%;
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	//background-position: -30px 120px;
+	background-position: 0px 115px;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	box-shadow: inset 0px 15px 15px -10px rgba(0, 0, 0, 0.63);
+.padding-top-50
+	padding-top: 50px;
+
+.caption-container
+	position: absolute;
+	left: 0;
+	top: 700px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+.caption
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: rgba(9, 9, 9, 0.7);
+	width: auto;
+	text-align: center;
+	color: #f2f2f2;
+	border-radius: 8px;
+	letter-spacing: 5px;
+	box-shadow: inset 0 0 10px #000000;
+.tableHeader
+	padding-top: 20px;
+	padding-bottom: 40px;
+	font-size: 2em;
+
+
+
+
+// .skillItem
+// 	border-color: #999;
+// 	border-style: solid;
+// 	border-radius: 8px;
+// 	padding: 0.2em 0.5em;
+// 	margin-right: 10px;
+// 	width: auto;
+// 	display: inline-block;
+// 	margin-top: 10px;
+// 	border-width: 0.1px;
+// 	&.hasSkill
+// 		background-color: #33b5e5;
+// 		color: #fefefe;
+// 		border-color: #0099CC;
+
+.tableHeader
+	display: flex;
+	margin-left: 5px;
+	.title
+		padding-right: 20px;
+.showAllButton
+	margin-left: 20px;
+	padding-top: 10px;
+tr.flexRow
+	display: flex;
+	flex-direction: row;
+
+
+///// Modal
+.backdrop
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.7);
+	z-index: 2000;
+.modal.show
+	z-index: 3000;
+	// background-color: white;
+
+/* Animation */
+.modal-anim-enter
+	opacity: 0.00;
+	transform: scale(0.7);
+	transition: all 0.2s;
+
+.modal-anim-enter.modal-anim-enter-active 
+	opacity: 1;
+	transform: scale(1);
+
+.modal-anim-leave 
+	opacity: 1;
+	transform: scale(1);
+	transition: all 0.2s;
+
+.modal-anim-leave.modal-anim-leave-active
+	opacity: 0.00;
+	transform: scale(0.7);

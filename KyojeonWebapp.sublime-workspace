@@ -1,0 +1,2605 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"language"
+			],
+			[
+				"book",
+				"booksForLanguages"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"cha",
+				"chapter"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"ver",
+				"verses"
+			],
+			[
+				"chap",
+				"chapters"
+			],
+			[
+				"lang",
+				"languageTitle"
+			],
+			[
+				"ren",
+				"renderDropdownButton"
+			],
+			[
+				"fil",
+				"filterSelected"
+			],
+			[
+				"sor",
+				"sortObject"
+			],
+			[
+				"boo",
+				"booksForLanguages"
+			],
+			[
+				"langu",
+				"languages"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"menteeCo",
+				"menteeColTitle"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ope",
+				"openContactLink"
+			],
+			[
+				"sav",
+				"savingIndicatorText"
+			],
+			[
+				"savi",
+				"savingIndicatorClassName"
+			],
+			[
+				"succe",
+				"successMessage"
+			],
+			[
+				"the",
+				"theIndex"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"error",
+				"errorClassNames"
+			],
+			[
+				"si",
+				"signupButtonTitle"
+			],
+			[
+				"sig",
+				"sign-up"
+			],
+			[
+				"sign",
+				"signupButtonTitle"
+			],
+			[
+				"err",
+				"errorMessages"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"show",
+				"showSuccess"
+			],
+			[
+				"su",
+				"successClassNames"
+			],
+			[
+				"succ",
+				"successClassNames"
+			],
+			[
+				"vali",
+				"validateSignUp"
+			],
+			[
+				"erro",
+				"errorMessages"
+			],
+			[
+				"mentee",
+				"menteeErrorMessages"
+			],
+			[
+				"mentor",
+				"mentorErrorMessages"
+			],
+			[
+				"mentori",
+				"mentoring"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"ans",
+				"answerToUpdate"
+			],
+			[
+				"compo",
+				"componentWillReceiveProps"
+			],
+			[
+				"con",
+				"containerClassName"
+			],
+			[
+				"conta",
+				"containerClassName"
+			],
+			[
+				"scr",
+				"scrollingLock"
+			],
+			[
+				"info",
+				"infoContainers"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"answer",
+				"answerToUpdate"
+			],
+			[
+				"hide",
+				"hideWithAnimation"
+			],
+			[
+				"too",
+				"tooltipClassName"
+			],
+			[
+				"tool",
+				"tooltipClassNames"
+			],
+			[
+				"sele",
+				"selectedKind"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"ment",
+				"menteeItems"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"q",
+				"qOld"
+			],
+			[
+				"eorr",
+				"errorMessage"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"checkm",
+				"checkMentee"
+			],
+			[
+				"chec",
+				"checkMentor"
+			],
+			[
+				"item",
+				"itemData"
+			],
+			[
+				"ski",
+				"skillsToTeach"
+			],
+			[
+				"skills",
+				"skillsToTeach"
+			],
+			[
+				"signup",
+				"signupas"
+			],
+			[
+				"skill",
+				"skillsToLearn"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"saved",
+				"saved_users"
+			],
+			[
+				"save",
+				"saved_users"
+			],
+			[
+				"users",
+				"usersToSave"
+			],
+			[
+				"user",
+				"usersToSave"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"curr",
+				"currentMentees"
+			],
+			[
+				"current",
+				"currentLimit"
+			],
+			[
+				"sel",
+				"selectedKind"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"map",
+				"mapAnswersToSkills"
+			],
+			[
+				"filter",
+				"filterUsers"
+			],
+			[
+				"ex",
+				"explorer"
+			],
+			[
+				"not",
+				"not_matched"
+			],
+			[
+				"mat",
+				"matchedButtonClassName"
+			],
+			[
+				"all",
+				"allButtonClassName"
+			],
+			[
+				"scro",
+				"scrollY"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"side",
+				"sidebarClassName"
+			],
+			[
+				"sc",
+				"scrollingLock"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"white",
+				"whiteColor"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"get",
+				"getLimit"
+			],
+			[
+				"in",
+				"info-color-dark"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"infoc",
+				"info-color"
+			],
+			[
+				"curree",
+				"currentMenteesNumber"
+			],
+			[
+				"limit",
+				"limitIndicator"
+			],
+			[
+				"limi",
+				"limitIndicator"
+			],
+			[
+				"pro",
+				"programLimit"
+			],
+			[
+				"selected",
+				"selectedKind"
+			],
+			[
+				"to",
+				"toRemove"
+			],
+			[
+				"tea",
+				"teachings"
+			],
+			[
+				"select",
+				"selectedKind"
+			],
+			[
+				"remove",
+				"removeFromResponses"
+			],
+			[
+				"mentors",
+				"mentorsMapped"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"men",
+				"menteesArray"
+			],
+			[
+				"mentees",
+				"menteesArray"
+			],
+			[
+				"mente",
+				"menteeLimit"
+			],
+			[
+				"match",
+				"matchButton"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"selec",
+				"selectedResponse"
+			],
+			[
+				"rea",
+				"readyForMatch"
+			],
+			[
+				"respon",
+				"response"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"answ",
+				"answerForSkill"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"bad",
+				"badge_photo"
+			],
+			[
+				"User",
+				"UserItem"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"mento",
+				"mentorUsers"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"para",
+				"parallaxHeight"
+			],
+			[
+				"ad",
+				"adjustedY"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"cont",
+				"containerClassNames"
+			],
+			[
+				"radio",
+				"radioButtonSelected"
+			],
+			[
+				"title",
+				"titleClassName"
+			],
+			[
+				"body",
+				"bodyText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 3018,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.sass",
+			"settings":
+			{
+				"buffer_size": 6256,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.jsx",
+			"settings":
+			{
+				"buffer_size": 2143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/kyojeon.es6.jsx",
+			"settings":
+			{
+				"buffer_size": 4421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/navbar.es6.jsx",
+			"settings":
+			{
+				"buffer_size": 2026,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/homepage.es6.jsx",
+			"settings":
+			{
+				"buffer_size": 326,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 29016 files for \"this.props.emp\"\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets/javascripts/navbar.es6.jsx:\n   19  \n   20  \trender () {\n   21: \t\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid='+this.props.emp.login\n   22  \t\tvar class1 = this.props.selectedButton == 1 ? 'active' : ''\n   23  \t\tvar class2 = this.props.selectedButton == 2 ? 'active' : ''\n   ..\n   53  \t\t\t\t\t      <li className={class1}><a href=\"#\" id='1' onClick={this.buttonSelected.bind(this)} >Home</a></li>\n   54  \t\t\t\t\t      <li className={class2}><a href=\"#\" id='2' onClick={this.buttonSelected.bind(this)} >My Profile</a></li>\n   55: \t\t\t\t\t    { this.props.emp.is_admin &&\n   56  \t\t\t\t\t      <li className={class3}><a href=\"#\" id='3' onClick={this.buttonSelected.bind(this)} >Admin</a></li>\n   57  \t\t\t\t\t    }\n   58  \t\t\t\t\t      <li className={class4}><a href=\"#\" id='4' onClick={this.openContactLink} >Contact</a></li>\n   59: \t\t\t\t\t      <li className={loginClassName}>@{this.props.emp.login}</li>\n   60  \t\t\t\t\t  </ul>\n   61  \t\t\t\t\t  <hr className=\"style1\" />\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/public/0.44676b352e26fcf5ca23.hot-update.js:\n   10  \n   11  \"use strict\";\n   12: eval(\"/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery__ = __webpack_require__(/*! jquery */ 65);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(/*! react */ 0);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);\\n\\n\\n\\n// const a9logo = require(\\\"../images/A9_logo.png\\\");\\n\\nclass NavBar extends __WEBPACK_IMPORTED_MODULE_1_react___default.a.Component {\\n\\tconstructor(props) {\\n\\t\\tsuper(props);\\n\\t\\t//this.state = { \\tscrollingLock: false }\\n\\t}\\n\\n\\tbuttonSelected(event) {\\n\\t\\t__WEBPACK_IMPORTED_MODULE_0_jquery___default()(Dispatch).trigger('changeView', event.target.id);\\n\\t}\\n\\n\\topenContactLink() {\\n\\t\\twindow.open('https://sim.amazon.com/issues/create?assignedFolder=d4667157-62df-42e4-b795-7dc5e9a2306c&descriptionContentType=text%2Fplain');\\n\\t}\\n\\n\\trender() {\\n\\t\\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid=' + this.props.emp.login;\\n\\t\\tvar class1 = this.props.selectedButton == 1 ? 'active' : '';\\n\\t\\tvar class2 = this.props.selectedButton == 2 ? 'active' : '';\\n\\t\\tvar class3 = this.props.selectedButton == 3 ? 'active' : '';\\n\\t\\tvar class4 = this.props.selectedButton == 4 ? 'active' : '';\\n\\n\\t\\t//console.log('selectedButton: ', this.props.selectedButton)\\n\\t\\tvar navClassNames = ['container-fluid', 'navContainer'];\\n\\t\\tvar loginClassNames = ['login'];\\n\\t\\tif (this.props.scrollingLock) {\\n\\t\\t\\t//console.log(\\\"should lock\\\");\\n\\t\\t\\tnavClassNames.push('navbar-fixed');\\n\\t\\t} else {\\n\\t\\t\\tloginClassNames.push('hidden');\\n\\t\\t}\\n\\t\\tvar navClassName = navClassNames.join(' ');\\n\\t\\tvar loginClassName = loginClassNames.join(' ');\\n\\t\\tconsole.log(\\\"className: \\\", navClassName);\\n\\t\\treturn __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t'div',\\n\\t\\t\\t{ className: 'contentHeader' },\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'container-fluid header' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'h1',\\n\\t\\t\\t\\t\\t{ className: 'logo' },\\n\\t\\t\\t\\t\\t'Mentoring'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'span',\\n\\t\\t\\t\\t\\t{ className: 'pilot' },\\n\\t\\t\\t\\t\\t'Pilot'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ className: 'crop' },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('img', { className: 'badge', src: badgePhotoURL, alt: 'BadgePhoto', height: '70', width: '70' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t),\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'nav-wrapper' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ id: 'navbar', className: navClassName },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t'ul',\\n\\t\\t\\t\\t\\t\\t{ className: 'nav nav-pills' },\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class1 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '1', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Home'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class2 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '2', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'My Profile'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\tthis.props.emp.is_admin && __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class3 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '3', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Admin'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class4 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '4', onClick: this.openContactLink },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Contact'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: loginClassName },\\n\\t\\t\\t\\t\\t\\t\\t'@',\\n\\t\\t\\t\\t\\t\\t\\tthis.props.emp.login\\n\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('hr', { className: 'style1' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t)\\n\\t\\t);\\n\\t}\\n}\\n/* harmony export (immutable) */ __webpack_exports__[\\\"a\\\"] = NavBar;\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjE5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3g/OGY5YSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgJCBmcm9tICdqcXVlcnknOyBcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbi8vIGNvbnN0IGE5bG9nbyA9IHJlcXVpcmUoXCIuLi9pbWFnZXMvQTlfbG9nby5wbmdcIik7XG5cbmV4cG9ydCBkZWZhdWx0IGNsYXNzIE5hdkJhciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7XG5cdGNvbnN0cnVjdG9yKHByb3BzKSB7XG5cdCAgICBzdXBlcihwcm9wcyk7XG5cdCAgICAvL3RoaXMuc3RhdGUgPSB7IFx0c2Nyb2xsaW5nTG9jazogZmFsc2UgfVxuICBcdH1cblxuXHRidXR0b25TZWxlY3RlZCAoZXZlbnQpIHtcblx0XHQkKERpc3BhdGNoKS50cmlnZ2VyKCdjaGFuZ2VWaWV3JywgZXZlbnQudGFyZ2V0LmlkKVxuXHR9XG5cblx0b3BlbkNvbnRhY3RMaW5rKCkge1xuXHRcdHdpbmRvdy5vcGVuKCdodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9jcmVhdGU/YXNzaWduZWRGb2xkZXI9ZDQ2NjcxNTctNjJkZi00MmU0LWI3OTUtN2RjNWU5YTIzMDZjJmRlc2NyaXB0aW9uQ29udGVudFR5cGU9dGV4dCUyRnBsYWluJyk7XG5cdH1cblxuXHRyZW5kZXIgKCkge1xuXHRcdHZhciBiYWRnZVBob3RvVVJMID0gJ2h0dHBzOi8vaW50ZXJuYWwtY2RuLmFtYXpvbi5jb20vYmFkZ2VwaG90b3MuYW1hem9uLmNvbS8/dWlkPScrdGhpcy5wcm9wcy5lbXAubG9naW5cblx0XHR2YXIgY2xhc3MxID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSAxID8gJ2FjdGl2ZScgOiAnJ1xuXHRcdHZhciBjbGFzczIgPSB0aGlzLnByb3BzLnNlbGVjdGVkQnV0dG9uID09IDIgPyAnYWN0aXZlJyA6ICcnXG5cdFx0dmFyIGNsYXNzMyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24gPT0gMyA/ICdhY3RpdmUnIDogJydcblx0XHR2YXIgY2xhc3M0ID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSA0ID8gJ2FjdGl2ZScgOiAnJ1xuXG5cdFx0Ly9jb25zb2xlLmxvZygnc2VsZWN0ZWRCdXR0b246ICcsIHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24pXG5cdFx0dmFyIG5hdkNsYXNzTmFtZXMgPSBbJ2NvbnRhaW5lci1mbHVpZCcsICduYXZDb250YWluZXInXVxuXHRcdHZhciBsb2dpbkNsYXNzTmFtZXMgPSBbJ2xvZ2luJ11cblx0XHRpZiAodGhpcy5wcm9wcy5zY3JvbGxpbmdMb2NrKSB7XG5cdFx0XHQvL2NvbnNvbGUubG9nKFwic2hvdWxkIGxvY2tcIik7XG5cdFx0XHRuYXZDbGFzc05hbWVzLnB1c2goJ25hdmJhci1maXhlZCcpXG5cdFx0fSBlbHNlIHtcblx0XHRcdGxvZ2luQ2xhc3NOYW1lcy5wdXNoKCdoaWRkZW4nKVxuXHRcdH1cblx0XHR2YXIgbmF2Q2xhc3NOYW1lID0gbmF2Q2xhc3NOYW1lcy5qb2luKCcgJylcblx0XHR2YXIgbG9naW5DbGFzc05hbWUgPSBsb2dpbkNsYXNzTmFtZXMuam9pbignICcpXG5cdFx0Y29uc29sZS5sb2coXCJjbGFzc05hbWU6IFwiLCBuYXZDbGFzc05hbWUpXG5cdFx0cmV0dXJuIChcblx0XHRcdDxkaXYgY2xhc3NOYW1lPSdjb250ZW50SGVhZGVyJz5cblx0XHRcdFx0PGRpdiBjbGFzc05hbWU9XCJjb250YWluZXItZmx1aWQgaGVhZGVyXCI+XG5cdFx0XHRcdHsvKiBcblx0XHRcdFx0XHQ8aW1nIGNsYXNzTmFtZT0nbG9nbycgc3JjPXthOWxvZ299IGFsdD1cIkE5TG9nb1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCovfVxuXHRcdFx0XHQgIDxoMSBjbGFzc05hbWU9J2xvZ28nPk1lbnRvcmluZzwvaDE+PHNwYW4gY2xhc3NOYW1lPSdwaWxvdCc+UGlsb3Q8L3NwYW4+XG5cdFx0XHRcdCAgPGRpdiBjbGFzc05hbWU9XCJjcm9wXCI+XG5cdFx0XHRcdCAgXHQ8aW1nIGNsYXNzTmFtZT0nYmFkZ2UnIHNyYz17YmFkZ2VQaG90b1VSTH0gYWx0PVwiQmFkZ2VQaG90b1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCAgPC9kaXY+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT1cIm5hdi13cmFwcGVyXCI+XG5cdFx0XHRcdFx0PGRpdiBpZD0nbmF2YmFyJyBjbGFzc05hbWU9e25hdkNsYXNzTmFtZX0+XG5cdFx0XHRcdFx0ICA8dWwgY2xhc3NOYW1lPVwibmF2IG5hdi1waWxsc1wiPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMX0+PGEgaHJlZj1cIiNcIiBpZD0nMScgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+SG9tZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMn0+PGEgaHJlZj1cIiNcIiBpZD0nMicgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+TXkgUHJvZmlsZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB7IHRoaXMucHJvcHMuZW1wLmlzX2FkbWluICYmXG5cdFx0XHRcdFx0ICAgICAgPGxpIGNsYXNzTmFtZT17Y2xhc3MzfT48YSBocmVmPVwiI1wiIGlkPSczJyBvbkNsaWNrPXt0aGlzLmJ1dHRvblNlbGVjdGVkLmJpbmQodGhpcyl9ID5BZG1pbjwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB9XG5cdFx0XHRcdFx0ICAgICAgPGxpIGNsYXNzTmFtZT17Y2xhc3M0fT48YSBocmVmPVwiI1wiIGlkPSc0JyBvbkNsaWNrPXt0aGlzLm9wZW5Db250YWN0TGlua30gPkNvbnRhY3Q8L2E+PC9saT5cblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtsb2dpbkNsYXNzTmFtZX0+QHt0aGlzLnByb3BzLmVtcC5sb2dpbn08L2xpPlxuXHRcdFx0XHRcdCAgPC91bD5cblx0XHRcdFx0XHQgIDxociBjbGFzc05hbWU9XCJzdHlsZTFcIiAvPlxuXHRcdFx0XHRcdDwvZGl2Plx0XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0PC9kaXY+XG5cdFx0KVxuXHR9XG59XG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIGFwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3giXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFJQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBREE7QUFMQTtBQVNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUVBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQVBBO0FBU0E7QUFWQTtBQURBO0FBVkE7QUEwQkE7QUE1REE7Ozs7OzsiLCJzb3VyY2VSb290IjoiIn0=\");\n   13  \n   14  /***/ })\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/public/javascripts/bundle.js:\n 3293  \n 3294  \"use strict\";\n 3295: eval(\"/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery__ = __webpack_require__(/*! jquery */ 65);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(/*! react */ 0);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);\\n\\n\\n\\n// const a9logo = require(\\\"../images/A9_logo.png\\\");\\n\\nclass NavBar extends __WEBPACK_IMPORTED_MODULE_1_react___default.a.Component {\\n\\tconstructor(props) {\\n\\t\\tsuper(props);\\n\\t\\t//this.state = { \\tscrollingLock: false }\\n\\t}\\n\\n\\tbuttonSelected(event) {\\n\\t\\t__WEBPACK_IMPORTED_MODULE_0_jquery___default()(Dispatch).trigger('changeView', event.target.id);\\n\\t}\\n\\n\\topenContactLink() {\\n\\t\\twindow.open('https://sim.amazon.com/issues/create?assignedFolder=d4667157-62df-42e4-b795-7dc5e9a2306c&descriptionContentType=text%2Fplain');\\n\\t}\\n\\n\\trender() {\\n\\t\\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid=' + this.props.emp.login;\\n\\t\\tvar class1 = this.props.selectedButton == 1 ? 'active' : '';\\n\\t\\tvar class2 = this.props.selectedButton == 2 ? 'active' : '';\\n\\t\\tvar class3 = this.props.selectedButton == 3 ? 'active' : '';\\n\\t\\tvar class4 = this.props.selectedButton == 4 ? 'active' : '';\\n\\n\\t\\t//console.log('selectedButton: ', this.props.selectedButton)\\n\\t\\tvar navClassNames = ['container-fluid', 'navContainer'];\\n\\t\\tvar loginClassNames = ['login'];\\n\\t\\tif (this.props.scrollingLock) {\\n\\t\\t\\t//console.log(\\\"should lock\\\");\\n\\t\\t\\tnavClassNames.push('navbar-fixed');\\n\\t\\t} else {\\n\\t\\t\\tloginClassNames.push('hidden');\\n\\t\\t}\\n\\t\\tvar navClassName = navClassNames.join(' ');\\n\\t\\tvar loginClassName = loginClassNames.join(' ');\\n\\t\\tconsole.log(\\\"className: \\\", navClassName);\\n\\t\\treturn __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t'div',\\n\\t\\t\\t{ className: 'contentHeader' },\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'container-fluid header' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'h1',\\n\\t\\t\\t\\t\\t{ className: 'logo' },\\n\\t\\t\\t\\t\\t'Mentoring'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'span',\\n\\t\\t\\t\\t\\t{ className: 'pilot' },\\n\\t\\t\\t\\t\\t'Pilot'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ className: 'crop' },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('img', { className: 'badge', src: badgePhotoURL, alt: 'BadgePhoto', height: '70', width: '70' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t),\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'nav-wrapper' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ id: 'navbar', className: navClassName },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t'ul',\\n\\t\\t\\t\\t\\t\\t{ className: 'nav nav-pills' },\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class1 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '1', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Home'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class2 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '2', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'My Profile'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\tthis.props.emp.is_admin && __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class3 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '3', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Admin'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class4 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '4', onClick: this.openContactLink },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Contact'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: loginClassName },\\n\\t\\t\\t\\t\\t\\t\\t'@',\\n\\t\\t\\t\\t\\t\\t\\tthis.props.emp.login\\n\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('hr', { className: 'style1' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t)\\n\\t\\t);\\n\\t}\\n}\\n/* harmony export (immutable) */ __webpack_exports__[\\\"a\\\"] = NavBar;\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjE5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3g/OGY5YSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgJCBmcm9tICdqcXVlcnknOyBcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbi8vIGNvbnN0IGE5bG9nbyA9IHJlcXVpcmUoXCIuLi9pbWFnZXMvQTlfbG9nby5wbmdcIik7XG5cbmV4cG9ydCBkZWZhdWx0IGNsYXNzIE5hdkJhciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7XG5cdGNvbnN0cnVjdG9yKHByb3BzKSB7XG5cdCAgICBzdXBlcihwcm9wcyk7XG5cdCAgICAvL3RoaXMuc3RhdGUgPSB7IFx0c2Nyb2xsaW5nTG9jazogZmFsc2UgfVxuICBcdH1cblxuXHRidXR0b25TZWxlY3RlZCAoZXZlbnQpIHtcblx0XHQkKERpc3BhdGNoKS50cmlnZ2VyKCdjaGFuZ2VWaWV3JywgZXZlbnQudGFyZ2V0LmlkKVxuXHR9XG5cblx0b3BlbkNvbnRhY3RMaW5rKCkge1xuXHRcdHdpbmRvdy5vcGVuKCdodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9jcmVhdGU/YXNzaWduZWRGb2xkZXI9ZDQ2NjcxNTctNjJkZi00MmU0LWI3OTUtN2RjNWU5YTIzMDZjJmRlc2NyaXB0aW9uQ29udGVudFR5cGU9dGV4dCUyRnBsYWluJyk7XG5cdH1cblxuXHRyZW5kZXIgKCkge1xuXHRcdHZhciBiYWRnZVBob3RvVVJMID0gJ2h0dHBzOi8vaW50ZXJuYWwtY2RuLmFtYXpvbi5jb20vYmFkZ2VwaG90b3MuYW1hem9uLmNvbS8/dWlkPScrdGhpcy5wcm9wcy5lbXAubG9naW5cblx0XHR2YXIgY2xhc3MxID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSAxID8gJ2FjdGl2ZScgOiAnJ1xuXHRcdHZhciBjbGFzczIgPSB0aGlzLnByb3BzLnNlbGVjdGVkQnV0dG9uID09IDIgPyAnYWN0aXZlJyA6ICcnXG5cdFx0dmFyIGNsYXNzMyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24gPT0gMyA/ICdhY3RpdmUnIDogJydcblx0XHR2YXIgY2xhc3M0ID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSA0ID8gJ2FjdGl2ZScgOiAnJ1xuXG5cdFx0Ly9jb25zb2xlLmxvZygnc2VsZWN0ZWRCdXR0b246ICcsIHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24pXG5cdFx0dmFyIG5hdkNsYXNzTmFtZXMgPSBbJ2NvbnRhaW5lci1mbHVpZCcsICduYXZDb250YWluZXInXVxuXHRcdHZhciBsb2dpbkNsYXNzTmFtZXMgPSBbJ2xvZ2luJ11cblx0XHRpZiAodGhpcy5wcm9wcy5zY3JvbGxpbmdMb2NrKSB7XG5cdFx0XHQvL2NvbnNvbGUubG9nKFwic2hvdWxkIGxvY2tcIik7XG5cdFx0XHRuYXZDbGFzc05hbWVzLnB1c2goJ25hdmJhci1maXhlZCcpXG5cdFx0fSBlbHNlIHtcblx0XHRcdGxvZ2luQ2xhc3NOYW1lcy5wdXNoKCdoaWRkZW4nKVxuXHRcdH1cblx0XHR2YXIgbmF2Q2xhc3NOYW1lID0gbmF2Q2xhc3NOYW1lcy5qb2luKCcgJylcblx0XHR2YXIgbG9naW5DbGFzc05hbWUgPSBsb2dpbkNsYXNzTmFtZXMuam9pbignICcpXG5cdFx0Y29uc29sZS5sb2coXCJjbGFzc05hbWU6IFwiLCBuYXZDbGFzc05hbWUpXG5cdFx0cmV0dXJuIChcblx0XHRcdDxkaXYgY2xhc3NOYW1lPSdjb250ZW50SGVhZGVyJz5cblx0XHRcdFx0PGRpdiBjbGFzc05hbWU9XCJjb250YWluZXItZmx1aWQgaGVhZGVyXCI+XG5cdFx0XHRcdHsvKiBcblx0XHRcdFx0XHQ8aW1nIGNsYXNzTmFtZT0nbG9nbycgc3JjPXthOWxvZ299IGFsdD1cIkE5TG9nb1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCovfVxuXHRcdFx0XHQgIDxoMSBjbGFzc05hbWU9J2xvZ28nPk1lbnRvcmluZzwvaDE+PHNwYW4gY2xhc3NOYW1lPSdwaWxvdCc+UGlsb3Q8L3NwYW4+XG5cdFx0XHRcdCAgPGRpdiBjbGFzc05hbWU9XCJjcm9wXCI+XG5cdFx0XHRcdCAgXHQ8aW1nIGNsYXNzTmFtZT0nYmFkZ2UnIHNyYz17YmFkZ2VQaG90b1VSTH0gYWx0PVwiQmFkZ2VQaG90b1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCAgPC9kaXY+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT1cIm5hdi13cmFwcGVyXCI+XG5cdFx0XHRcdFx0PGRpdiBpZD0nbmF2YmFyJyBjbGFzc05hbWU9e25hdkNsYXNzTmFtZX0+XG5cdFx0XHRcdFx0ICA8dWwgY2xhc3NOYW1lPVwibmF2IG5hdi1waWxsc1wiPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMX0+PGEgaHJlZj1cIiNcIiBpZD0nMScgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+SG9tZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMn0+PGEgaHJlZj1cIiNcIiBpZD0nMicgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+TXkgUHJvZmlsZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB7IHRoaXMucHJvcHMuZW1wLmlzX2FkbWluICYmXG5cdFx0XHRcdFx0ICAgICAgPGxpIGNsYXNzTmFtZT17Y2xhc3MzfT48YSBocmVmPVwiI1wiIGlkPSczJyBvbkNsaWNrPXt0aGlzLmJ1dHRvblNlbGVjdGVkLmJpbmQodGhpcyl9ID5BZG1pbjwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB9XG5cdFx0XHRcdFx0ICAgICAgPGxpIGNsYXNzTmFtZT17Y2xhc3M0fT48YSBocmVmPVwiI1wiIGlkPSc0JyBvbkNsaWNrPXt0aGlzLm9wZW5Db250YWN0TGlua30gPkNvbnRhY3Q8L2E+PC9saT5cblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtsb2dpbkNsYXNzTmFtZX0+QHt0aGlzLnByb3BzLmVtcC5sb2dpbn08L2xpPlxuXHRcdFx0XHRcdCAgPC91bD5cblx0XHRcdFx0XHQgIDxociBjbGFzc05hbWU9XCJzdHlsZTFcIiAvPlxuXHRcdFx0XHRcdDwvZGl2Plx0XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0PC9kaXY+XG5cdFx0KVxuXHR9XG59XG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIGFwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3giXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFJQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBREE7QUFMQTtBQVNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUVBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQVBBO0FBU0E7QUFWQTtBQURBO0FBVkE7QUEwQkE7QUE1REE7Ozs7OzsiLCJzb3VyY2VSb290IjoiIn0=\");\n 3296  \n 3297  /***/ }),\n\n9 matches across 3 files\n\n\nSearching 29018 files for \"this.props.emp\"\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets/javascripts/navbar.es6.jsx:\n   19  \n   20  \trender () {\n   21: \t\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid='+this.props.emp.login\n   22  \t\tvar class1 = this.props.selectedButton == 1 ? 'active' : ''\n   23  \t\tvar class2 = this.props.selectedButton == 2 ? 'active' : ''\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/public/0.1a219601629777820835.hot-update.js:\n   10  \n   11  \"use strict\";\n   12: eval(\"/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery__ = __webpack_require__(/*! jquery */ 65);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(/*! react */ 0);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);\\n\\n\\n\\n// const a9logo = require(\\\"../images/A9_logo.png\\\");\\n\\nclass NavBar extends __WEBPACK_IMPORTED_MODULE_1_react___default.a.Component {\\n\\tconstructor(props) {\\n\\t\\tsuper(props);\\n\\t\\t//this.state = { \\tscrollingLock: false }\\n\\t}\\n\\n\\tbuttonSelected(event) {\\n\\t\\t__WEBPACK_IMPORTED_MODULE_0_jquery___default()(Dispatch).trigger('changeView', event.target.id);\\n\\t}\\n\\n\\topenContactLink() {\\n\\t\\twindow.open('https://sim.amazon.com/issues/create?assignedFolder=d4667157-62df-42e4-b795-7dc5e9a2306c&descriptionContentType=text%2Fplain');\\n\\t}\\n\\n\\trender() {\\n\\t\\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid=' + this.props.emp.login;\\n\\t\\tvar class1 = this.props.selectedButton == 1 ? 'active' : '';\\n\\t\\tvar class2 = this.props.selectedButton == 2 ? 'active' : '';\\n\\t\\tvar class3 = this.props.selectedButton == 3 ? 'active' : '';\\n\\t\\tvar class4 = this.props.selectedButton == 4 ? 'active' : '';\\n\\n\\t\\t//console.log('selectedButton: ', this.props.selectedButton)\\n\\t\\tvar navClassNames = ['container-fluid', 'navContainer'];\\n\\t\\tvar loginClassNames = ['login'];\\n\\t\\tif (this.props.scrollingLock) {\\n\\t\\t\\t//console.log(\\\"should lock\\\");\\n\\t\\t\\tnavClassNames.push('navbar-fixed');\\n\\t\\t} else {\\n\\t\\t\\tloginClassNames.push('hidden');\\n\\t\\t}\\n\\t\\tvar navClassName = navClassNames.join(' ');\\n\\t\\tvar loginClassName = loginClassNames.join(' ');\\n\\t\\tconsole.log(\\\"className: \\\", navClassName);\\n\\t\\treturn __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t'div',\\n\\t\\t\\t{ className: 'contentHeader' },\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'container-fluid header' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'h1',\\n\\t\\t\\t\\t\\t{ className: 'logo' },\\n\\t\\t\\t\\t\\t'Mentoring'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'span',\\n\\t\\t\\t\\t\\t{ className: 'pilot' },\\n\\t\\t\\t\\t\\t'Pilot'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ className: 'crop' },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('img', { className: 'badge', src: badgePhotoURL, alt: 'BadgePhoto', height: '70', width: '70' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t),\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'nav-wrapper' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ id: 'navbar', className: navClassName },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t'ul',\\n\\t\\t\\t\\t\\t\\t{ className: 'nav nav-pills' },\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class1 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '1', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Home'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class2 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '2', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'My Profile'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\ttrue && __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class3 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '3', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Admin'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class4 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '4', onClick: this.openContactLink },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Contact'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: loginClassName },\\n\\t\\t\\t\\t\\t\\t\\t'@test'\\n\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('hr', { className: 'style1' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t)\\n\\t\\t);\\n\\t}\\n}\\n/* harmony export (immutable) */ __webpack_exports__[\\\"a\\\"] = NavBar;\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjE5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3g/OGY5YSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgJCBmcm9tICdqcXVlcnknOyBcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbi8vIGNvbnN0IGE5bG9nbyA9IHJlcXVpcmUoXCIuLi9pbWFnZXMvQTlfbG9nby5wbmdcIik7XG5cbmV4cG9ydCBkZWZhdWx0IGNsYXNzIE5hdkJhciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7XG5cdGNvbnN0cnVjdG9yKHByb3BzKSB7XG5cdCAgICBzdXBlcihwcm9wcyk7XG5cdCAgICAvL3RoaXMuc3RhdGUgPSB7IFx0c2Nyb2xsaW5nTG9jazogZmFsc2UgfVxuICBcdH1cblxuXHRidXR0b25TZWxlY3RlZCAoZXZlbnQpIHtcblx0XHQkKERpc3BhdGNoKS50cmlnZ2VyKCdjaGFuZ2VWaWV3JywgZXZlbnQudGFyZ2V0LmlkKVxuXHR9XG5cblx0b3BlbkNvbnRhY3RMaW5rKCkge1xuXHRcdHdpbmRvdy5vcGVuKCdodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9jcmVhdGU/YXNzaWduZWRGb2xkZXI9ZDQ2NjcxNTctNjJkZi00MmU0LWI3OTUtN2RjNWU5YTIzMDZjJmRlc2NyaXB0aW9uQ29udGVudFR5cGU9dGV4dCUyRnBsYWluJyk7XG5cdH1cblxuXHRyZW5kZXIgKCkge1xuXHRcdHZhciBiYWRnZVBob3RvVVJMID0gJ2h0dHBzOi8vaW50ZXJuYWwtY2RuLmFtYXpvbi5jb20vYmFkZ2VwaG90b3MuYW1hem9uLmNvbS8/dWlkPScrdGhpcy5wcm9wcy5lbXAubG9naW5cblx0XHR2YXIgY2xhc3MxID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSAxID8gJ2FjdGl2ZScgOiAnJ1xuXHRcdHZhciBjbGFzczIgPSB0aGlzLnByb3BzLnNlbGVjdGVkQnV0dG9uID09IDIgPyAnYWN0aXZlJyA6ICcnXG5cdFx0dmFyIGNsYXNzMyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24gPT0gMyA/ICdhY3RpdmUnIDogJydcblx0XHR2YXIgY2xhc3M0ID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSA0ID8gJ2FjdGl2ZScgOiAnJ1xuXG5cdFx0Ly9jb25zb2xlLmxvZygnc2VsZWN0ZWRCdXR0b246ICcsIHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24pXG5cdFx0dmFyIG5hdkNsYXNzTmFtZXMgPSBbJ2NvbnRhaW5lci1mbHVpZCcsICduYXZDb250YWluZXInXVxuXHRcdHZhciBsb2dpbkNsYXNzTmFtZXMgPSBbJ2xvZ2luJ11cblx0XHRpZiAodGhpcy5wcm9wcy5zY3JvbGxpbmdMb2NrKSB7XG5cdFx0XHQvL2NvbnNvbGUubG9nKFwic2hvdWxkIGxvY2tcIik7XG5cdFx0XHRuYXZDbGFzc05hbWVzLnB1c2goJ25hdmJhci1maXhlZCcpXG5cdFx0fSBlbHNlIHtcblx0XHRcdGxvZ2luQ2xhc3NOYW1lcy5wdXNoKCdoaWRkZW4nKVxuXHRcdH1cblx0XHR2YXIgbmF2Q2xhc3NOYW1lID0gbmF2Q2xhc3NOYW1lcy5qb2luKCcgJylcblx0XHR2YXIgbG9naW5DbGFzc05hbWUgPSBsb2dpbkNsYXNzTmFtZXMuam9pbignICcpXG5cdFx0Y29uc29sZS5sb2coXCJjbGFzc05hbWU6IFwiLCBuYXZDbGFzc05hbWUpXG5cdFx0cmV0dXJuIChcblx0XHRcdDxkaXYgY2xhc3NOYW1lPSdjb250ZW50SGVhZGVyJz5cblx0XHRcdFx0PGRpdiBjbGFzc05hbWU9XCJjb250YWluZXItZmx1aWQgaGVhZGVyXCI+XG5cdFx0XHRcdHsvKiBcblx0XHRcdFx0XHQ8aW1nIGNsYXNzTmFtZT0nbG9nbycgc3JjPXthOWxvZ299IGFsdD1cIkE5TG9nb1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCovfVxuXHRcdFx0XHQgIDxoMSBjbGFzc05hbWU9J2xvZ28nPk1lbnRvcmluZzwvaDE+PHNwYW4gY2xhc3NOYW1lPSdwaWxvdCc+UGlsb3Q8L3NwYW4+XG5cdFx0XHRcdCAgPGRpdiBjbGFzc05hbWU9XCJjcm9wXCI+XG5cdFx0XHRcdCAgXHQ8aW1nIGNsYXNzTmFtZT0nYmFkZ2UnIHNyYz17YmFkZ2VQaG90b1VSTH0gYWx0PVwiQmFkZ2VQaG90b1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCAgPC9kaXY+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT1cIm5hdi13cmFwcGVyXCI+XG5cdFx0XHRcdFx0PGRpdiBpZD0nbmF2YmFyJyBjbGFzc05hbWU9e25hdkNsYXNzTmFtZX0+XG5cdFx0XHRcdFx0ICA8dWwgY2xhc3NOYW1lPVwibmF2IG5hdi1waWxsc1wiPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMX0+PGEgaHJlZj1cIiNcIiBpZD0nMScgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+SG9tZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMn0+PGEgaHJlZj1cIiNcIiBpZD0nMicgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+TXkgUHJvZmlsZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB7IHRydWUgJiZcblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtjbGFzczN9PjxhIGhyZWY9XCIjXCIgaWQ9JzMnIG9uQ2xpY2s9e3RoaXMuYnV0dG9uU2VsZWN0ZWQuYmluZCh0aGlzKX0gPkFkbWluPC9hPjwvbGk+XG5cdFx0XHRcdFx0ICAgIH1cblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtjbGFzczR9PjxhIGhyZWY9XCIjXCIgaWQ9JzQnIG9uQ2xpY2s9e3RoaXMub3BlbkNvbnRhY3RMaW5rfSA+Q29udGFjdDwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2xvZ2luQ2xhc3NOYW1lfT5AdGVzdDwvbGk+XG5cdFx0XHRcdFx0ICA8L3VsPlxuXHRcdFx0XHRcdCAgPGhyIGNsYXNzTmFtZT1cInN0eWxlMVwiIC8+XG5cdFx0XHRcdFx0PC9kaXY+XHRcblx0XHRcdFx0PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHQpXG5cdH1cbn1cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gYXBwL2Fzc2V0cy9qYXZhc2NyaXB0cy9uYXZiYXIuZXM2LmpzeCJdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUlBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFEQTtBQUxBO0FBU0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBRUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQVBBO0FBU0E7QUFWQTtBQURBO0FBVkE7QUEwQkE7QUE1REE7Ozs7OzsiLCJzb3VyY2VSb290IjoiIn0=\");\n   13  \n   14  /***/ })\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/public/0.44676b352e26fcf5ca23.hot-update.js:\n   10  \n   11  \"use strict\";\n   12: eval(\"/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery__ = __webpack_require__(/*! jquery */ 65);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(/*! react */ 0);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);\\n\\n\\n\\n// const a9logo = require(\\\"../images/A9_logo.png\\\");\\n\\nclass NavBar extends __WEBPACK_IMPORTED_MODULE_1_react___default.a.Component {\\n\\tconstructor(props) {\\n\\t\\tsuper(props);\\n\\t\\t//this.state = { \\tscrollingLock: false }\\n\\t}\\n\\n\\tbuttonSelected(event) {\\n\\t\\t__WEBPACK_IMPORTED_MODULE_0_jquery___default()(Dispatch).trigger('changeView', event.target.id);\\n\\t}\\n\\n\\topenContactLink() {\\n\\t\\twindow.open('https://sim.amazon.com/issues/create?assignedFolder=d4667157-62df-42e4-b795-7dc5e9a2306c&descriptionContentType=text%2Fplain');\\n\\t}\\n\\n\\trender() {\\n\\t\\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid=' + this.props.emp.login;\\n\\t\\tvar class1 = this.props.selectedButton == 1 ? 'active' : '';\\n\\t\\tvar class2 = this.props.selectedButton == 2 ? 'active' : '';\\n\\t\\tvar class3 = this.props.selectedButton == 3 ? 'active' : '';\\n\\t\\tvar class4 = this.props.selectedButton == 4 ? 'active' : '';\\n\\n\\t\\t//console.log('selectedButton: ', this.props.selectedButton)\\n\\t\\tvar navClassNames = ['container-fluid', 'navContainer'];\\n\\t\\tvar loginClassNames = ['login'];\\n\\t\\tif (this.props.scrollingLock) {\\n\\t\\t\\t//console.log(\\\"should lock\\\");\\n\\t\\t\\tnavClassNames.push('navbar-fixed');\\n\\t\\t} else {\\n\\t\\t\\tloginClassNames.push('hidden');\\n\\t\\t}\\n\\t\\tvar navClassName = navClassNames.join(' ');\\n\\t\\tvar loginClassName = loginClassNames.join(' ');\\n\\t\\tconsole.log(\\\"className: \\\", navClassName);\\n\\t\\treturn __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t'div',\\n\\t\\t\\t{ className: 'contentHeader' },\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'container-fluid header' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'h1',\\n\\t\\t\\t\\t\\t{ className: 'logo' },\\n\\t\\t\\t\\t\\t'Mentoring'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'span',\\n\\t\\t\\t\\t\\t{ className: 'pilot' },\\n\\t\\t\\t\\t\\t'Pilot'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ className: 'crop' },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('img', { className: 'badge', src: badgePhotoURL, alt: 'BadgePhoto', height: '70', width: '70' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t),\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'nav-wrapper' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ id: 'navbar', className: navClassName },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t'ul',\\n\\t\\t\\t\\t\\t\\t{ className: 'nav nav-pills' },\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class1 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '1', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Home'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class2 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '2', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'My Profile'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\tthis.props.emp.is_admin && __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class3 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '3', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Admin'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class4 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '4', onClick: this.openContactLink },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Contact'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: loginClassName },\\n\\t\\t\\t\\t\\t\\t\\t'@',\\n\\t\\t\\t\\t\\t\\t\\tthis.props.emp.login\\n\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('hr', { className: 'style1' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t)\\n\\t\\t);\\n\\t}\\n}\\n/* harmony export (immutable) */ __webpack_exports__[\\\"a\\\"] = NavBar;\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjE5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3g/OGY5YSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgJCBmcm9tICdqcXVlcnknOyBcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbi8vIGNvbnN0IGE5bG9nbyA9IHJlcXVpcmUoXCIuLi9pbWFnZXMvQTlfbG9nby5wbmdcIik7XG5cbmV4cG9ydCBkZWZhdWx0IGNsYXNzIE5hdkJhciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7XG5cdGNvbnN0cnVjdG9yKHByb3BzKSB7XG5cdCAgICBzdXBlcihwcm9wcyk7XG5cdCAgICAvL3RoaXMuc3RhdGUgPSB7IFx0c2Nyb2xsaW5nTG9jazogZmFsc2UgfVxuICBcdH1cblxuXHRidXR0b25TZWxlY3RlZCAoZXZlbnQpIHtcblx0XHQkKERpc3BhdGNoKS50cmlnZ2VyKCdjaGFuZ2VWaWV3JywgZXZlbnQudGFyZ2V0LmlkKVxuXHR9XG5cblx0b3BlbkNvbnRhY3RMaW5rKCkge1xuXHRcdHdpbmRvdy5vcGVuKCdodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9jcmVhdGU/YXNzaWduZWRGb2xkZXI9ZDQ2NjcxNTctNjJkZi00MmU0LWI3OTUtN2RjNWU5YTIzMDZjJmRlc2NyaXB0aW9uQ29udGVudFR5cGU9dGV4dCUyRnBsYWluJyk7XG5cdH1cblxuXHRyZW5kZXIgKCkge1xuXHRcdHZhciBiYWRnZVBob3RvVVJMID0gJ2h0dHBzOi8vaW50ZXJuYWwtY2RuLmFtYXpvbi5jb20vYmFkZ2VwaG90b3MuYW1hem9uLmNvbS8/dWlkPScrdGhpcy5wcm9wcy5lbXAubG9naW5cblx0XHR2YXIgY2xhc3MxID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSAxID8gJ2FjdGl2ZScgOiAnJ1xuXHRcdHZhciBjbGFzczIgPSB0aGlzLnByb3BzLnNlbGVjdGVkQnV0dG9uID09IDIgPyAnYWN0aXZlJyA6ICcnXG5cdFx0dmFyIGNsYXNzMyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24gPT0gMyA/ICdhY3RpdmUnIDogJydcblx0XHR2YXIgY2xhc3M0ID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSA0ID8gJ2FjdGl2ZScgOiAnJ1xuXG5cdFx0Ly9jb25zb2xlLmxvZygnc2VsZWN0ZWRCdXR0b246ICcsIHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24pXG5cdFx0dmFyIG5hdkNsYXNzTmFtZXMgPSBbJ2NvbnRhaW5lci1mbHVpZCcsICduYXZDb250YWluZXInXVxuXHRcdHZhciBsb2dpbkNsYXNzTmFtZXMgPSBbJ2xvZ2luJ11cblx0XHRpZiAodGhpcy5wcm9wcy5zY3JvbGxpbmdMb2NrKSB7XG5cdFx0XHQvL2NvbnNvbGUubG9nKFwic2hvdWxkIGxvY2tcIik7XG5cdFx0XHRuYXZDbGFzc05hbWVzLnB1c2goJ25hdmJhci1maXhlZCcpXG5cdFx0fSBlbHNlIHtcblx0XHRcdGxvZ2luQ2xhc3NOYW1lcy5wdXNoKCdoaWRkZW4nKVxuXHRcdH1cblx0XHR2YXIgbmF2Q2xhc3NOYW1lID0gbmF2Q2xhc3NOYW1lcy5qb2luKCcgJylcblx0XHR2YXIgbG9naW5DbGFzc05hbWUgPSBsb2dpbkNsYXNzTmFtZXMuam9pbignICcpXG5cdFx0Y29uc29sZS5sb2coXCJjbGFzc05hbWU6IFwiLCBuYXZDbGFzc05hbWUpXG5cdFx0cmV0dXJuIChcblx0XHRcdDxkaXYgY2xhc3NOYW1lPSdjb250ZW50SGVhZGVyJz5cblx0XHRcdFx0PGRpdiBjbGFzc05hbWU9XCJjb250YWluZXItZmx1aWQgaGVhZGVyXCI+XG5cdFx0XHRcdHsvKiBcblx0XHRcdFx0XHQ8aW1nIGNsYXNzTmFtZT0nbG9nbycgc3JjPXthOWxvZ299IGFsdD1cIkE5TG9nb1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCovfVxuXHRcdFx0XHQgIDxoMSBjbGFzc05hbWU9J2xvZ28nPk1lbnRvcmluZzwvaDE+PHNwYW4gY2xhc3NOYW1lPSdwaWxvdCc+UGlsb3Q8L3NwYW4+XG5cdFx0XHRcdCAgPGRpdiBjbGFzc05hbWU9XCJjcm9wXCI+XG5cdFx0XHRcdCAgXHQ8aW1nIGNsYXNzTmFtZT0nYmFkZ2UnIHNyYz17YmFkZ2VQaG90b1VSTH0gYWx0PVwiQmFkZ2VQaG90b1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCAgPC9kaXY+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT1cIm5hdi13cmFwcGVyXCI+XG5cdFx0XHRcdFx0PGRpdiBpZD0nbmF2YmFyJyBjbGFzc05hbWU9e25hdkNsYXNzTmFtZX0+XG5cdFx0XHRcdFx0ICA8dWwgY2xhc3NOYW1lPVwibmF2IG5hdi1waWxsc1wiPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMX0+PGEgaHJlZj1cIiNcIiBpZD0nMScgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+SG9tZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMn0+PGEgaHJlZj1cIiNcIiBpZD0nMicgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+TXkgUHJvZmlsZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB7IHRoaXMucHJvcHMuZW1wLmlzX2FkbWluICYmXG5cdFx0XHRcdFx0ICAgICAgPGxpIGNsYXNzTmFtZT17Y2xhc3MzfT48YSBocmVmPVwiI1wiIGlkPSczJyBvbkNsaWNrPXt0aGlzLmJ1dHRvblNlbGVjdGVkLmJpbmQodGhpcyl9ID5BZG1pbjwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB9XG5cdFx0XHRcdFx0ICAgICAgPGxpIGNsYXNzTmFtZT17Y2xhc3M0fT48YSBocmVmPVwiI1wiIGlkPSc0JyBvbkNsaWNrPXt0aGlzLm9wZW5Db250YWN0TGlua30gPkNvbnRhY3Q8L2E+PC9saT5cblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtsb2dpbkNsYXNzTmFtZX0+QHt0aGlzLnByb3BzLmVtcC5sb2dpbn08L2xpPlxuXHRcdFx0XHRcdCAgPC91bD5cblx0XHRcdFx0XHQgIDxociBjbGFzc05hbWU9XCJzdHlsZTFcIiAvPlxuXHRcdFx0XHRcdDwvZGl2Plx0XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0PC9kaXY+XG5cdFx0KVxuXHR9XG59XG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIGFwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3giXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFJQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBREE7QUFMQTtBQVNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUVBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQVBBO0FBU0E7QUFWQTtBQURBO0FBVkE7QUEwQkE7QUE1REE7Ozs7OzsiLCJzb3VyY2VSb290IjoiIn0=\");\n   13  \n   14  /***/ })\n\n/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/public/javascripts/bundle.js:\n 3293  \n 3294  \"use strict\";\n 3295: eval(\"/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery__ = __webpack_require__(/*! jquery */ 65);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(/*! react */ 0);\\n/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);\\n\\n\\n\\n// const a9logo = require(\\\"../images/A9_logo.png\\\");\\n\\nclass NavBar extends __WEBPACK_IMPORTED_MODULE_1_react___default.a.Component {\\n\\tconstructor(props) {\\n\\t\\tsuper(props);\\n\\t\\t//this.state = { \\tscrollingLock: false }\\n\\t}\\n\\n\\tbuttonSelected(event) {\\n\\t\\t__WEBPACK_IMPORTED_MODULE_0_jquery___default()(Dispatch).trigger('changeView', event.target.id);\\n\\t}\\n\\n\\topenContactLink() {\\n\\t\\twindow.open('https://sim.amazon.com/issues/create?assignedFolder=d4667157-62df-42e4-b795-7dc5e9a2306c&descriptionContentType=text%2Fplain');\\n\\t}\\n\\n\\trender() {\\n\\t\\tvar badgePhotoURL = 'https://internal-cdn.amazon.com/badgephotos.amazon.com/?uid=' + this.props.emp.login;\\n\\t\\tvar class1 = this.props.selectedButton == 1 ? 'active' : '';\\n\\t\\tvar class2 = this.props.selectedButton == 2 ? 'active' : '';\\n\\t\\tvar class3 = this.props.selectedButton == 3 ? 'active' : '';\\n\\t\\tvar class4 = this.props.selectedButton == 4 ? 'active' : '';\\n\\n\\t\\t//console.log('selectedButton: ', this.props.selectedButton)\\n\\t\\tvar navClassNames = ['container-fluid', 'navContainer'];\\n\\t\\tvar loginClassNames = ['login'];\\n\\t\\tif (this.props.scrollingLock) {\\n\\t\\t\\t//console.log(\\\"should lock\\\");\\n\\t\\t\\tnavClassNames.push('navbar-fixed');\\n\\t\\t} else {\\n\\t\\t\\tloginClassNames.push('hidden');\\n\\t\\t}\\n\\t\\tvar navClassName = navClassNames.join(' ');\\n\\t\\tvar loginClassName = loginClassNames.join(' ');\\n\\t\\tconsole.log(\\\"className: \\\", navClassName);\\n\\t\\treturn __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t'div',\\n\\t\\t\\t{ className: 'contentHeader' },\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'container-fluid header' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'h1',\\n\\t\\t\\t\\t\\t{ className: 'logo' },\\n\\t\\t\\t\\t\\t'Mentoring'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'span',\\n\\t\\t\\t\\t\\t{ className: 'pilot' },\\n\\t\\t\\t\\t\\t'Pilot'\\n\\t\\t\\t\\t),\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ className: 'crop' },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('img', { className: 'badge', src: badgePhotoURL, alt: 'BadgePhoto', height: '70', width: '70' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t),\\n\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t{ className: 'nav-wrapper' },\\n\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t'div',\\n\\t\\t\\t\\t\\t{ id: 'navbar', className: navClassName },\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t'ul',\\n\\t\\t\\t\\t\\t\\t{ className: 'nav nav-pills' },\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class1 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '1', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Home'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class2 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '2', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'My Profile'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\ttrue && __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class3 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '3', onClick: this.buttonSelected.bind(this) },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Admin'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: class4 },\\n\\t\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t\\t'a',\\n\\t\\t\\t\\t\\t\\t\\t\\t{ href: '#', id: '4', onClick: this.openContactLink },\\n\\t\\t\\t\\t\\t\\t\\t\\t'Contact'\\n\\t\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(\\n\\t\\t\\t\\t\\t\\t\\t'li',\\n\\t\\t\\t\\t\\t\\t\\t{ className: loginClassName },\\n\\t\\t\\t\\t\\t\\t\\t'@test'\\n\\t\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t\\t),\\n\\t\\t\\t\\t\\t__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('hr', { className: 'style1' })\\n\\t\\t\\t\\t)\\n\\t\\t\\t)\\n\\t\\t);\\n\\t}\\n}\\n/* harmony export (immutable) */ __webpack_exports__[\\\"a\\\"] = NavBar;\\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjE5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvbmF2YmFyLmVzNi5qc3g/OGY5YSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgJCBmcm9tICdqcXVlcnknOyBcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbi8vIGNvbnN0IGE5bG9nbyA9IHJlcXVpcmUoXCIuLi9pbWFnZXMvQTlfbG9nby5wbmdcIik7XG5cbmV4cG9ydCBkZWZhdWx0IGNsYXNzIE5hdkJhciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7XG5cdGNvbnN0cnVjdG9yKHByb3BzKSB7XG5cdCAgICBzdXBlcihwcm9wcyk7XG5cdCAgICAvL3RoaXMuc3RhdGUgPSB7IFx0c2Nyb2xsaW5nTG9jazogZmFsc2UgfVxuICBcdH1cblxuXHRidXR0b25TZWxlY3RlZCAoZXZlbnQpIHtcblx0XHQkKERpc3BhdGNoKS50cmlnZ2VyKCdjaGFuZ2VWaWV3JywgZXZlbnQudGFyZ2V0LmlkKVxuXHR9XG5cblx0b3BlbkNvbnRhY3RMaW5rKCkge1xuXHRcdHdpbmRvdy5vcGVuKCdodHRwczovL3NpbS5hbWF6b24uY29tL2lzc3Vlcy9jcmVhdGU/YXNzaWduZWRGb2xkZXI9ZDQ2NjcxNTctNjJkZi00MmU0LWI3OTUtN2RjNWU5YTIzMDZjJmRlc2NyaXB0aW9uQ29udGVudFR5cGU9dGV4dCUyRnBsYWluJyk7XG5cdH1cblxuXHRyZW5kZXIgKCkge1xuXHRcdHZhciBiYWRnZVBob3RvVVJMID0gJ2h0dHBzOi8vaW50ZXJuYWwtY2RuLmFtYXpvbi5jb20vYmFkZ2VwaG90b3MuYW1hem9uLmNvbS8/dWlkPScrdGhpcy5wcm9wcy5lbXAubG9naW5cblx0XHR2YXIgY2xhc3MxID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSAxID8gJ2FjdGl2ZScgOiAnJ1xuXHRcdHZhciBjbGFzczIgPSB0aGlzLnByb3BzLnNlbGVjdGVkQnV0dG9uID09IDIgPyAnYWN0aXZlJyA6ICcnXG5cdFx0dmFyIGNsYXNzMyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24gPT0gMyA/ICdhY3RpdmUnIDogJydcblx0XHR2YXIgY2xhc3M0ID0gdGhpcy5wcm9wcy5zZWxlY3RlZEJ1dHRvbiA9PSA0ID8gJ2FjdGl2ZScgOiAnJ1xuXG5cdFx0Ly9jb25zb2xlLmxvZygnc2VsZWN0ZWRCdXR0b246ICcsIHRoaXMucHJvcHMuc2VsZWN0ZWRCdXR0b24pXG5cdFx0dmFyIG5hdkNsYXNzTmFtZXMgPSBbJ2NvbnRhaW5lci1mbHVpZCcsICduYXZDb250YWluZXInXVxuXHRcdHZhciBsb2dpbkNsYXNzTmFtZXMgPSBbJ2xvZ2luJ11cblx0XHRpZiAodGhpcy5wcm9wcy5zY3JvbGxpbmdMb2NrKSB7XG5cdFx0XHQvL2NvbnNvbGUubG9nKFwic2hvdWxkIGxvY2tcIik7XG5cdFx0XHRuYXZDbGFzc05hbWVzLnB1c2goJ25hdmJhci1maXhlZCcpXG5cdFx0fSBlbHNlIHtcblx0XHRcdGxvZ2luQ2xhc3NOYW1lcy5wdXNoKCdoaWRkZW4nKVxuXHRcdH1cblx0XHR2YXIgbmF2Q2xhc3NOYW1lID0gbmF2Q2xhc3NOYW1lcy5qb2luKCcgJylcblx0XHR2YXIgbG9naW5DbGFzc05hbWUgPSBsb2dpbkNsYXNzTmFtZXMuam9pbignICcpXG5cdFx0Y29uc29sZS5sb2coXCJjbGFzc05hbWU6IFwiLCBuYXZDbGFzc05hbWUpXG5cdFx0cmV0dXJuIChcblx0XHRcdDxkaXYgY2xhc3NOYW1lPSdjb250ZW50SGVhZGVyJz5cblx0XHRcdFx0PGRpdiBjbGFzc05hbWU9XCJjb250YWluZXItZmx1aWQgaGVhZGVyXCI+XG5cdFx0XHRcdHsvKiBcblx0XHRcdFx0XHQ8aW1nIGNsYXNzTmFtZT0nbG9nbycgc3JjPXthOWxvZ299IGFsdD1cIkE5TG9nb1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCovfVxuXHRcdFx0XHQgIDxoMSBjbGFzc05hbWU9J2xvZ28nPk1lbnRvcmluZzwvaDE+PHNwYW4gY2xhc3NOYW1lPSdwaWxvdCc+UGlsb3Q8L3NwYW4+XG5cdFx0XHRcdCAgPGRpdiBjbGFzc05hbWU9XCJjcm9wXCI+XG5cdFx0XHRcdCAgXHQ8aW1nIGNsYXNzTmFtZT0nYmFkZ2UnIHNyYz17YmFkZ2VQaG90b1VSTH0gYWx0PVwiQmFkZ2VQaG90b1wiIGhlaWdodD1cIjcwXCIgd2lkdGg9XCI3MFwiIC8+XG5cdFx0XHRcdCAgPC9kaXY+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8ZGl2IGNsYXNzTmFtZT1cIm5hdi13cmFwcGVyXCI+XG5cdFx0XHRcdFx0PGRpdiBpZD0nbmF2YmFyJyBjbGFzc05hbWU9e25hdkNsYXNzTmFtZX0+XG5cdFx0XHRcdFx0ICA8dWwgY2xhc3NOYW1lPVwibmF2IG5hdi1waWxsc1wiPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMX0+PGEgaHJlZj1cIiNcIiBpZD0nMScgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+SG9tZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2NsYXNzMn0+PGEgaHJlZj1cIiNcIiBpZD0nMicgb25DbGljaz17dGhpcy5idXR0b25TZWxlY3RlZC5iaW5kKHRoaXMpfSA+TXkgUHJvZmlsZTwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICB7IHRydWUgJiZcblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtjbGFzczN9PjxhIGhyZWY9XCIjXCIgaWQ9JzMnIG9uQ2xpY2s9e3RoaXMuYnV0dG9uU2VsZWN0ZWQuYmluZCh0aGlzKX0gPkFkbWluPC9hPjwvbGk+XG5cdFx0XHRcdFx0ICAgIH1cblx0XHRcdFx0XHQgICAgICA8bGkgY2xhc3NOYW1lPXtjbGFzczR9PjxhIGhyZWY9XCIjXCIgaWQ9JzQnIG9uQ2xpY2s9e3RoaXMub3BlbkNvbnRhY3RMaW5rfSA+Q29udGFjdDwvYT48L2xpPlxuXHRcdFx0XHRcdCAgICAgIDxsaSBjbGFzc05hbWU9e2xvZ2luQ2xhc3NOYW1lfT5AdGVzdDwvbGk+XG5cdFx0XHRcdFx0ICA8L3VsPlxuXHRcdFx0XHRcdCAgPGhyIGNsYXNzTmFtZT1cInN0eWxlMVwiIC8+XG5cdFx0XHRcdFx0PC9kaXY+XHRcblx0XHRcdFx0PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHQpXG5cdH1cbn1cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gYXBwL2Fzc2V0cy9qYXZhc2NyaXB0cy9uYXZiYXIuZXM2LmpzeCJdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUlBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFEQTtBQUxBO0FBU0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBRUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQVBBO0FBU0E7QUFWQTtBQURBO0FBVkE7QUEwQkE7QUE1REE7Ozs7OzsiLCJzb3VyY2VSb290IjoiIn0=\");\n 3296  \n 3297  /***/ }),\n\n6 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 52093,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 216,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/api/api_controller.rb",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"comment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"emmet:c",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"emmet:co",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"emmet:ex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emmet:to",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"browse to",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"pack\t\t\t",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets/javascripts",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/views",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/views/layouts",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/db",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/public",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/test"
+	],
+	"file_history":
+	[
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/package.json",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets/javascripts/footer.es6.jsx",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets/javascripts/navbar.es6.jsx",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/node_modules/loud-rejection/api.js",
+		"/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp/app/assets/stylesheets/application.sass",
+		"/Users/tcho/Dropbox/AppDevelop/react_native/KyojeonWebapp/db/migrate/20170305023619_create_bookmarks.rb",
+		"/Users/tcho/Dropbox/AppDevelop/react_native/KyojeonWebapp/db/migrate/20170305022510_create_dicts.rb",
+		"/Users/tcho/Dropbox/AppDevelop/react_native/KyojeonWebapp/db/migrate/20170305022449_create_counts.rb",
+		"/Users/tcho/Dropbox/AppDevelop/react_native/KyojeonWebapp/db/migrate/20170305022423_create_bookmarks.rb",
+		"/Users/tcho/Dropbox/AppDevelop/react_native/KyojeonWebapp/db/migrate/20170305022346_create_booklists.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/db/schema.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/explore.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/navbar.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/homepage.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/stylesheets/application.sass",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/application.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/controllers/api/api_controller.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/signuppage.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/views/layouts/application.html.erb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/controllers/application_controller.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/data/languages.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/ldap.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/employee.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/application.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/stylesheets/signupas.sass",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/components/Creatable.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/lib/tasks/update_questions.rake",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/database.yml",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/routes.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/db/seeds.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/stylesheets/explore.sass",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/db/migrate/20170208215135_create_questions.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/answer.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/initializers/abstract_mysql2_adapter.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/environments/development.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/environments/production.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/webpack.config.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/match.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/user.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/skill.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/environments/beta.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/sftp-config.json",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/components/Multiselect.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/Rakefile",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/data/tooltips.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/controllers/questions_controller.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/models/question.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/footer.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/modal.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/db/migrate/20170208215258_create_answers.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/contactpage.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts/data/skills.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/node_modules/react-select/src/Creatable.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/images/mentor_learner.svg",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/config/initializers/01-appconfig.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/node_modules/connect-history-api-fallback/test/index_test.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/node_modules/webpack-dev-server/client/web_modules/jquery/jquery-1.8.1.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/node_modules/lodash/multiply.js",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/controllers/users_controller.rb",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/package.json",
+		"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/README.rdoc",
+		"/Users/tcho/Desktop/A9/Interview/Erik",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/routes.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/timestamps_controller.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/tickets_controller.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/application_controller.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/listpanel.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/app.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/views/index/index.html.erb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/navbar.sass",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/report.sass",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/modal.css",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/buildings_controller.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/Config",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/checkreport.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/loader.css",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/modal.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/application.sass",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/tasks_controller.rb",
+		"/Users/tcho/Desktop/[setup for React]",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/loader.css",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/progressview.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/styles.js",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/application.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/report.css",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/views/index/index.html.erb.old",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/areas_controller.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/Gemfile",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/controllers/floors_controller.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/models/area.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/models/floor.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/models/building.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/db/migrate/20161229230003_create_tickets.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/models/employee.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/db/migrate/20161229225851_create_tasks.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/models/timestamp.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/environments/production.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/environments/development.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/views/timestamps/index.html.haml",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/panel.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/db/seeds.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components.js",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/application.js",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/stylesheets/areas.css.scss",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/environments/test.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/environments/alpha.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/environments/beta.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/environments/gamma.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/config/boot.rb",
+		"/Users/tcho/rails_dev/Sites/FCL/Rakefile",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/views/layouts/application.html.haml",
+		"/private/var/folders/88/7hcxf_0x5k16hxtmc6knmsb510y1ln/T/91fb40b0-3258-4770-a8bc-c8cefe251c6b/workplace/tcho/dev/A9FacilityWebsite/src/A9-FacilityWebsite/Config",
+		"/private/var/folders/88/7hcxf_0x5k16hxtmc6knmsb510y1ln/T/91fb40b0-3258-4770-a8bc-c8cefe251c6b/workplace/tcho/dev/A9FacilityWebsite/src/A9-FacilityWebsite/rails-root/Gemfile",
+		"/private/var/folders/88/7hcxf_0x5k16hxtmc6knmsb510y1ln/T/91fb40b0-3258-4770-a8bc-c8cefe251c6b/workplace/tcho/dev/A9FacilityWebsite/src/A9-FacilityWebsite/rails-root/app/assets/javascripts/application.js",
+		"/private/var/folders/88/7hcxf_0x5k16hxtmc6knmsb510y1ln/T/91fb40b0-3258-4770-a8bc-c8cefe251c6b/workplace/tcho/dev/A9FacilityWebsite/src/A9-FacilityWebsite/rails-root/app/views/index/index.html.erb",
+		"/Users/tcho/rails_dev/Sites/FCL/rails-root/app/assets/javascripts/components/navbutton.es6.jsx",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/assets/stylesheets/avlog.css",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/rooms/show.html.haml",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/issues/edit.html.erb",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/controllers/issues_controller.rb",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/issues/_form.html.haml",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/models/new.html.erb",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/brands/new.html.haml",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/devices/new.html.haml",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/views/partials/_issues.html.haml",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/app/controllers/application_controller.rb",
+		"/Users/tcho/rails_dev/Sites/AVLog/sftp-config.json",
+		"/Users/tcho/rails_dev/Sites/AVLog/rails-root/config/database.yml"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/stylesheets",
+			"<project>",
+			"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts",
+			"<project>",
+			"/Users/tcho/rails_dev/Sites/A9-MentoringNetworkWebsite/app/assets/javascripts",
+			"/app/assets/javascripts",
+			"<project>",
+			"<current file>",
+			"",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=",
+			"badgePhotoURL",
+			"this.props.emp",
+			"booklist",
+			"booklist_text",
+			"booklist",
+			"Country",
+			"country",
+			"Country",
+			"country",
+			"mentor",
+			"mantor",
+			"buttongroup",
+			"buttongrop",
+			"buttongr",
+			"infocon",
+			"mentoring network",
+			"a9 mentoring",
+			", ",
+			"saving",
+			"update",
+			"save",
+			"#aaa",
+			"show",
+			"default:",
+			"successMessage",
+			"validatesign",
+			"def admin_logins",
+			"admin_logins",
+			"validatesi",
+			"errormessage",
+			"errormessagecontainer",
+			"error",
+			"signupbu",
+			"signupbutton",
+			"error",
+			"sign up",
+			"errorMessage",
+			"var errorMessages",
+			"validate",
+			"if (!answer.answer) ",
+			"validatesi",
+			"skillsto",
+			"response, signupas",
+			"errorMessage.error",
+			"validate",
+			"hidewith",
+			"signupas",
+			"justify",
+			"FormGroup",
+			"item.id",
+			"index",
+			".basicItems",
+			".id",
+			"api/signupas_answers",
+			".emp",
+			"api/emp",
+			"save",
+			"'signupas'",
+			"signupas",
+			"theUser.answers",
+			"@@theUser",
+			"user",
+			".create",
+			"type",
+			"type:",
+			"kind",
+			"type",
+			":type",
+			"answer.kind",
+			"kind:",
+			"type:",
+			"signupas:",
+			"'signupas'",
+			".signupas",
+			".sighupas",
+			"handleScroll",
+			"disabled",
+			".signupas",
+			"mentor",
+			"none",
+			"'none'",
+			"errorMessage:",
+			"eager_load",
+			"theanswer.answer",
+			"@emp",
+			"$emp",
+			"config.public_file_server.enabled = true",
+			"$(Dispatch).trigger('updateAnswer', itemData)",
+			"0.5s",
+			"transition",
+			"hidewithanimation",
+			"$(Dispatch).trigger('updateAnswer', itemData)",
+			"updateAnswer",
+			"hideto",
+			"info-container",
+			".content",
+			"questionContainer",
+			"justify",
+			"title",
+			"centerBlock",
+			"badge_pho",
+			".content",
+			"content",
+			"badge_photo",
+			"td",
+			"tr",
+			"table",
+			"explorer",
+			"bodyco",
+			"td",
+			"1",
+			"validatesi",
+			".title",
+			"validatesig",
+			"$.ajax({ url: url, \n\t\t\ttype: 'PUT', \n\t\t\tdata: itemData, \n\t\t\tsuccess: (item) => { \n\t\t\t\tconsole.log('answer saved', item);\n\t\t\t\tthis.setState({helpMessage: 'auto saved'})\n\t\t\t},\n\t\t\terror: function(XMLHttpRequest, textStatus, errorThrown) { \n        //alert(\"Status: \" + textStatus); alert(\"Error: \" + errorThrown); \n      \tthis.setState({helpMessage: textStatus})\n    \t} \n\t\t})",
+			"$(Dispatch).trigger('updateAnswer', itemData)",
+			"validate",
+			"alert",
+			"ajax",
+			"mentor.user",
+			"getLimit(response)",
+			"emp.emp",
+			"mapAnswer",
+			"currentmentees",
+			"mapAnswersToSkills(",
+			"mapAnswersToSkills",
+			"answers.filter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"; ",
+			"className=",
+			"handleClick",
+			".title-header"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2018,
+								2018
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3013,
+										3014
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1925,
+										1926
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/application.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								791
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/javascripts/application.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								200
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/javascripts/kyojeon.es6.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2752,
+								2752
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3084,
+										3085
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2627,
+										2628
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 615.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/javascripts/navbar.es6.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1238,
+								1238
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1238,
+										1239
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1228,
+										1229
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 670.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/javascripts/homepage.es6.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52093,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										267,
+										281
+									],
+									[
+										688,
+										702
+									],
+									[
+										1010,
+										1024
+									],
+									[
+										2375,
+										2389
+									],
+									[
+										5201,
+										5215
+									],
+									[
+										6125,
+										6139
+									],
+									[
+										12512,
+										12526
+									],
+									[
+										15338,
+										15352
+									],
+									[
+										16262,
+										16276
+									],
+									[
+										21682,
+										21696
+									],
+									[
+										23119,
+										23133
+									],
+									[
+										33163,
+										33177
+									],
+									[
+										35989,
+										36003
+									],
+									[
+										36913,
+										36927
+									],
+									[
+										43300,
+										43314
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								21692,
+								21692
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										21588,
+										21589
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"default_dir": "/Users/tcho/Dropbox/AppDevelop/rails_dev_personal/KyojeonWebapp",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 2,
+							"remote_loading": false,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"synced": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5736.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								186
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										186,
+										187
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										173,
+										174
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/controllers/api/api_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										131,
+										132
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										121,
+										122
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 364.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"api_con",
+				"app/controllers/api/api_controller.rb"
+			],
+			[
+				"footer",
+				"app/assets/javascripts/footer.es6.jsx"
+			],
+			[
+				"nav",
+				"app/assets/javascripts/navbar.es6.jsx"
+			],
+			[
+				"home",
+				"app/assets/javascripts/homepage.es6.jsx"
+			],
+			[
+				"api",
+				"node_modules/loud-rejection/api.js"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"navbar",
+				"app/assets/javascripts/navbar.es6.jsx"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.jsx"
+			],
+			[
+				"app",
+				"app/assets/javascripts/application.jsx"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"ex",
+				"app/assets/stylesheets/explore.sass"
+			],
+			[
+				"expl",
+				"app/assets/javascripts/explore.es6.jsx"
+			],
+			[
+				"sign",
+				"app/assets/javascripts/signuppage.es6.jsx"
+			],
+			[
+				"explo",
+				"app/assets/javascripts/explore.es6.jsx"
+			],
+			[
+				"langu",
+				"app/assets/javascripts/data/languages.js"
+			],
+			[
+				"sig",
+				"app/assets/stylesheets/signupas.sass"
+			],
+			[
+				"empl",
+				"app/models/employee.rb"
+			],
+			[
+				"emp",
+				"app/models/employee.rb"
+			],
+			[
+				"ldap",
+				"app/models/ldap.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"emplo",
+				"app/models/employee.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"cre",
+				"app/assets/javascripts/components/Creatable.jsx"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"api_c",
+				"app/controllers/api/api_controller.rb"
+			],
+			[
+				"upda",
+				"lib/tasks/update_questions.rake"
+			],
+			[
+				"development.",
+				"config/environments/development.rb"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"crea",
+				"app/assets/javascripts/components/Creatable.jsx"
+			],
+			[
+				"mul",
+				"app/assets/javascripts/components/Multiselect.jsx"
+			],
+			[
+				"",
+				"lib/tasks/update_questions.rake"
+			],
+			[
+				"question",
+				"app/controllers/questions_controller.rb"
+			],
+			[
+				"foot",
+				"app/assets/javascripts/footer.es6.jsx"
+			],
+			[
+				"footer.",
+				"app/assets/javascripts/footer.es6.jsx"
+			],
+			[
+				"answer",
+				"db/migrate/20170208215258_create_answers.rb"
+			],
+			[
+				"creat",
+				"app/assets/javascripts/components/Creatable.jsx"
+			],
+			[
+				"modal",
+				"app/assets/javascripts/modal.es6.jsx"
+			],
+			[
+				"multi",
+				"app/assets/javascripts/components/Multiselect.jsx"
+			],
+			[
+				"navb",
+				"app/assets/javascripts/navbar.es6.jsx"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"skill",
+				"app/models/skill.rb"
+			],
+			[
+				"skills",
+				"app/assets/javascripts/data/skills.js"
+			],
+			[
+				"skillsj",
+				"app/assets/javascripts/data/skills.js"
+			],
+			[
+				"app.jsx",
+				"app/assets/javascripts/application.jsx"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"lda",
+				"app/models/ldap.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"ques",
+				"app/models/question.rb"
+			],
+			[
+				"ans",
+				"app/models/answer.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"webpa",
+				"webpack.config.js"
+			],
+			[
+				"ti",
+				"rails-root/app/controllers/tickets_controller.rb"
+			],
+			[
+				"time",
+				"rails-root/app/controllers/timestamps_controller.rb"
+			],
+			[
+				"tic",
+				"rails-root/app/controllers/tickets_controller.rb"
+			],
+			[
+				"repo",
+				"rails-root/app/assets/stylesheets/report.sass"
+			],
+			[
+				"app/view/",
+				"rails-root/app/views/index/index.html.erb"
+			],
+			[
+				"app.",
+				"rails-root/app/assets/javascripts/components/app.es6.jsx"
+			],
+			[
+				"list",
+				"rails-root/app/assets/javascripts/components/listpanel.es6.jsx"
+			],
+			[
+				"mo",
+				"rails-root/app/assets/stylesheets/modal.css"
+			],
+			[
+				"conf",
+				"Config"
+			],
+			[
+				"re",
+				"rails-root/app/assets/stylesheets/report.sass"
+			],
+			[
+				"checkre",
+				"rails-root/app/assets/javascripts/components/checkreport.es6.jsx"
+			],
+			[
+				"buil",
+				"rails-root/app/controllers/buildings_controller.rb"
+			],
+			[
+				"task",
+				"rails-root/app/controllers/tasks_controller.rb"
+			],
+			[
+				"repor",
+				"rails-root/app/assets/stylesheets/report.css"
+			],
+			[
+				"appl",
+				"rails-root/app/controllers/application_controller.rb"
+			],
+			[
+				"index.",
+				"rails-root/app/views/index/index.html.erb"
+			],
+			[
+				"index",
+				"rails-root/app/views/index/index.html.erb.old"
+			],
+			[
+				"app.es",
+				"rails-root/app/assets/javascripts/components/app.es6.jsx"
+			],
+			[
+				"floor",
+				"rails-root/app/controllers/floors_controller.rb"
+			],
+			[
+				"area",
+				"rails-root/app/controllers/areas_controller.rb"
+			],
+			[
+				"are",
+				"rails-root/app/controllers/areas_controller.rb"
+			],
+			[
+				"bui",
+				"rails-root/app/models/building.rb"
+			],
+			[
+				"tasks_con",
+				"rails-root/app/controllers/tasks_controller.rb"
+			],
+			[
+				"task_",
+				"rails-root/app/controllers/tasks_controller.rb"
+			],
+			[
+				"gem",
+				"rails-root/Gemfile"
+			],
+			[
+				"con",
+				"Config"
+			],
+			[
+				"ticket",
+				"rails-root/app/controllers/tickets_controller.rb"
+			],
+			[
+				"task_con",
+				"rails-root/app/controllers/tasks_controller.rb"
+			],
+			[
+				"tick",
+				"rails-root/app/controllers/tickets_controller.rb"
+			],
+			[
+				"prod",
+				"rails-root/config/environments/production.rb"
+			],
+			[
+				"devel",
+				"rails-root/config/environments/development.rb"
+			],
+			[
+				"config",
+				"Config"
+			],
+			[
+				"applica",
+				"rails-root/app/controllers/application_controller.rb"
+			],
+			[
+				"ge",
+				"rails-root/Gemfile"
+			],
+			[
+				"ap",
+				"rails-root/app/assets/stylesheets/application.sass"
+			],
+			[
+				"compone",
+				"rails-root/app/assets/javascripts/components.js"
+			],
+			[
+				"style",
+				"rails-root/app/assets/stylesheets/areas.css.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
